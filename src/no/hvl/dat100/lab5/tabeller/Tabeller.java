@@ -6,9 +6,7 @@ public static void main(String[] args) {
 		
 		int[]tabel = {1, 3, 4, 7, 9, 10};
 		
-		int[] tabel1 = {42,67,89};
-		
-		int[] tabel2 = {42,67,88};
+		int[] tabel1 = {42,67,88};
 
 		 skrivUt(tabel);
 		 System.out.println();
